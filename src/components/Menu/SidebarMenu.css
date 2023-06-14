@@ -1,0 +1,17 @@
+.sideMenu{
+    background: #F9F9F9;
+}
+
+.nav-item a{
+    color: black;
+}
+
+ul li:hover{
+    color: #4E59FF;
+    background-color: #E8E9FA;
+    
+    border-radius: 5px;
+}
+.profil a{
+    color: black;
+}
